@@ -11,6 +11,6 @@ spec:
             pathType: Prefix
             backend:
               service:
-                name: emotion-api-service
+                name: emotion-api
                 port:
                   number: 80
